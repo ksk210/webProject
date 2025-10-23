@@ -6,7 +6,8 @@ import org.springframework.context.annotation.Configuration;
 public class MyTestsConfiguration {
 
 	
-	void exampleTest() {
+	public void exampleTest() {
 		
+		System.out.println("코드수정");
 	}
 }
